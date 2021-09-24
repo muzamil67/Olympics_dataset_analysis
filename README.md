@@ -1,4 +1,5 @@
-# ETG assignment 2
+# ELITE TECHNO GROUPS
+# assignment 2
 # Summer Olympics Data Analysis 
 I have made this project under guidance of Ashish jangra organised by Elite Techno Group's.
 This repository contains one CSV file (summer.csv) and one Jupyter Notebook file (SummerOlympics.ipynb).
